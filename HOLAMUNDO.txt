@@ -1,0 +1,4 @@
+Hola soy Piero Garcia
+Estudiante de primer semestre de TDS
+Hoy es 09 de mayo del 2026
+Estoy trabajando en cv con Git
