@@ -3,3 +3,8 @@ Proceso para ir a entrenar al gym
 2. Vestirme
 3. alimentarme
 4. proceder a dirigirme al gym
+
+función saludar()
+{
+            retornar "Buenos días"
+}
