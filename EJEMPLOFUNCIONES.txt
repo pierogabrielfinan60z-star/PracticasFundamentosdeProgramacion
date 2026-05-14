@@ -9,7 +9,13 @@ función saludar()
             retornar "Buenos días"
 }
 
-función AreaRectangulo()
+función AreaRectangulo(valor a , valor b,valor c)
 {
-         retornar calculoDelArea()
+         retornar calculoDelArea;
+}
+función MatricularEstudiante(Valor codigoBanner)
+{
+     calculo1
+     calculo2
+     return calculo1+calculo2
 }
