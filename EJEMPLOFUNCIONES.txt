@@ -8,3 +8,8 @@ función saludar()
 {
             retornar "Buenos días"
 }
+
+función AreaRectangulo()
+{
+         retornar calculoDelArea()
+}
